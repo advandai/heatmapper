@@ -2,15 +2,20 @@
   <BCol v-if="fileSelected" cols="10" offset="1">
     <BTabs>
       <BTab :title="table.name" v-for="table in dataTables.tables" v-bind:key="table.name" class="py-3">
-        <BTable :items="table.items" :fields="fields" small class="text-left">
+        <BTable :items="table.items" :fields="fields" small class="text-right">
           <template slot="% Change" slot-scope="data">
-            <div v-bind:style="cellColor(data)">
+            <div v-bind:style="cellColor(data)" class="px-1">
               <font-awesome-icon v-if="data.value < 0" icon="long-arrow-alt-down"/>
               {{ Math.round(data.value * 10) / 10 }}
             </div>
           </template>
           <template slot="TL-Diff" slot-scope="data">
-            <div v-bind:style="cellColor(data)">
+            <div v-bind:style="cellColor(data)" class="px-1">
+              {{ data.value }}
+            </div>
+          </template>
+          <template slot="Name" slot-scope="data">
+            <div class="text-left">
               {{ data.value }}
             </div>
           </template>
