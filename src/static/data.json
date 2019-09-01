@@ -1,0 +1,1376 @@
+{
+  "tables": [
+    {
+      "cbs": [
+        {
+          "% Change": 17.875179306793427,
+          "EUR-2018": 4077221,
+          "Name": "Cash and cash equivalents",
+          "Notes": 5.0,
+          "TL-2017": 20850437.0,
+          "TL-2018": 24577490,
+          "TL-Diff": 3727053.0,
+          "USD-2018": 4671727
+        },
+        {
+          "% Change": NaN,
+          "EUR-2018": 9019,
+          "Name": "Financial assets",
+          "Notes": 6.0,
+          "TL-2017": NaN,
+          "TL-2018": 54364,
+          "TL-Diff": NaN,
+          "USD-2018": 10334
+        },
+        {
+          "% Change": 14.398063663621304,
+          "EUR-2018": 2906154,
+          "Name": "Trade receivables",
+          "Notes": 8.0,
+          "TL-2017": 15313455.0,
+          "TL-2018": 17518296,
+          "TL-Diff": 2204841.0,
+          "USD-2018": 3329905
+        },
+        {
+          "% Change": -5.7476248181167024,
+          "EUR-2018": 277670,
+          "Name": "Related parties",
+          "Notes": 8.0,
+          "TL-2017": 1775864.0,
+          "TL-2018": 1673794,
+          "TL-Diff": -102070.0,
+          "USD-2018": 318157
+        },
+        {
+          "% Change": 17.040779264198484,
+          "EUR-2018": 2628484,
+          "Name": "Third parties",
+          "Notes": 8.0,
+          "TL-2017": 13537591.0,
+          "TL-2018": 15844502,
+          "TL-Diff": 2306911.0,
+          "USD-2018": 3011748
+        },
+        {
+          "% Change": -10.861513053870238,
+          "EUR-2018": 317506,
+          "Name": "Receivables from finance sector operations",
+          "Notes": 9.0,
+          "TL-2017": 2147141.0,
+          "TL-2018": 1913929,
+          "TL-Diff": -233212.0,
+          "USD-2018": 363803
+        },
+        {
+          "% Change": -18.2531762052731,
+          "EUR-2018": 83706,
+          "Name": "Derivative instruments",
+          "Notes": 10.0,
+          "TL-2017": 617246.0,
+          "TL-2018": 504579,
+          "TL-Diff": -112667.0,
+          "USD-2018": 95911
+        },
+        {
+          "% Change": 29.079986353042724,
+          "EUR-2018": 2363688,
+          "Name": "Inventories",
+          "Notes": 11.0,
+          "TL-2017": 11038358.0,
+          "TL-2018": 14248311,
+          "TL-Diff": 3209953.0,
+          "USD-2018": 2708341
+        },
+        {
+          "% Change": 92.4766365359107,
+          "EUR-2018": 423432,
+          "Name": "Other receivables",
+          "Notes": 20.0,
+          "TL-2017": 1326109.0,
+          "TL-2018": 2552450,
+          "TL-Diff": 1226341.0,
+          "USD-2018": 485174
+        },
+        {
+          "% Change": 107.69706055330835,
+          "EUR-2018": 555973,
+          "Name": "Other current assets",
+          "Notes": 21.0,
+          "TL-2017": 1613603.0,
+          "TL-2018": 3351406,
+          "TL-Diff": 1737803.0,
+          "USD-2018": 637040
+        },
+        {
+          "% Change": 22.330922891693017,
+          "EUR-2018": 10736699,
+          "Name": "",
+          "Notes": NaN,
+          "TL-2017": 52906349.0,
+          "TL-2018": 64720825,
+          "TL-Diff": 11814476.0,
+          "USD-2018": 12302235
+        },
+        {
+          "% Change": 2.5642782116271636,
+          "EUR-2018": 7451,
+          "Name": "Assets held for sale",
+          "Notes": 23.0,
+          "TL-2017": 43794.0,
+          "TL-2018": 44917,
+          "TL-Diff": 1123.0,
+          "USD-2018": 8538
+        },
+        {
+          "% Change": 22.314574296805958,
+          "EUR-2018": 10744150,
+          "Name": "Total current assets",
+          "Notes": NaN,
+          "TL-2017": 52950143.0,
+          "TL-2018": 64765742,
+          "TL-Diff": 11815599.0,
+          "USD-2018": 12310773
+        },
+        {
+          "% Change": -54.85892209418034,
+          "EUR-2018": 11665,
+          "Name": "Financial assets",
+          "Notes": 6.0,
+          "TL-2017": 155765.0,
+          "TL-2018": 70314,
+          "TL-Diff": -85451.0,
+          "USD-2018": 13365
+        },
+        {
+          "% Change": 15.33774267454632,
+          "EUR-2018": 3028691,
+          "Name": "Investments accounted for using the equity method",
+          "Notes": 7.0,
+          "TL-2017": 15829122.0,
+          "TL-2018": 18256952,
+          "TL-Diff": 2427830.0,
+          "USD-2018": 3470310
+        },
+        {
+          "% Change": 748.0290098179486,
+          "EUR-2018": 57030,
+          "Name": "Trade receivables",
+          "Notes": 8.0,
+          "TL-2017": 40538.0,
+          "TL-2018": 343774,
+          "TL-Diff": 303236.0,
+          "USD-2018": 65345
+        },
+        {
+          "% Change": 748.0290098179486,
+          "EUR-2018": 57030,
+          "Name": "Third parties",
+          "Notes": 8.0,
+          "TL-2017": 40538.0,
+          "TL-2018": 343774,
+          "TL-Diff": 303236.0,
+          "USD-2018": 65345
+        },
+        {
+          "% Change": -26.727109722264707,
+          "EUR-2018": 206629,
+          "Name": "Receivables from finance sector operations",
+          "Notes": 9.0,
+          "TL-2017": 1699892.0,
+          "TL-2018": 1245560,
+          "TL-Diff": -454332.0,
+          "USD-2018": 236758
+        },
+        {
+          "% Change": 115.37556151766533,
+          "EUR-2018": 69515,
+          "Name": "Derivative instruments",
+          "Notes": 10.0,
+          "TL-2017": 194562.0,
+          "TL-2018": 419039,
+          "TL-Diff": 224477.0,
+          "USD-2018": 79652
+        },
+        {
+          "% Change": -1.7839465824854615,
+          "EUR-2018": 77523,
+          "Name": "Investment properties",
+          "Notes": 12.0,
+          "TL-2017": 475799.0,
+          "TL-2018": 467311,
+          "TL-Diff": -8488.0,
+          "USD-2018": 88827
+        },
+        {
+          "% Change": 22.854426303547132,
+          "EUR-2018": 4379034,
+          "Name": "Property, plant and equipment",
+          "Notes": 13.0,
+          "TL-2017": 21486258.0,
+          "TL-2018": 26396819,
+          "TL-Diff": 4910561.0,
+          "USD-2018": 5017548
+        },
+        {
+          "% Change": 11.17929980263517,
+          "EUR-2018": 1138879,
+          "Name": "Intangible assets",
+          "Notes": NaN,
+          "TL-2017": 6174859.0,
+          "TL-2018": 6865165,
+          "TL-Diff": 690306.0,
+          "USD-2018": 1304941
+        },
+        {
+          "% Change": 2.2004205287321925,
+          "EUR-2018": 538226,
+          "Name": "Goodwill",
+          "Notes": 14.0,
+          "TL-2017": 3174575.0,
+          "TL-2018": 3244429,
+          "TL-Diff": 69854.0,
+          "USD-2018": 616706
+        },
+        {
+          "% Change": 20.679775647905334,
+          "EUR-2018": 600653,
+          "Name": "Other intangible assets",
+          "Notes": 15.0,
+          "TL-2017": 3000284.0,
+          "TL-2018": 3620736,
+          "TL-Diff": 620452.0,
+          "USD-2018": 688235
+        },
+        {
+          "% Change": 22.5615337559782,
+          "EUR-2018": 731221,
+          "Name": "Deferred tax assets",
+          "Notes": 17.0,
+          "TL-2017": 3596400.0,
+          "TL-2018": 4407803,
+          "TL-Diff": 811403.0,
+          "USD-2018": 837842
+        },
+        {
+          "% Change": 39.44970329151352,
+          "EUR-2018": 337990,
+          "Name": "Other non-current assets",
+          "Notes": 21.0,
+          "TL-2017": 1461030.0,
+          "TL-2018": 2037402,
+          "TL-Diff": 576372.0,
+          "USD-2018": 387273
+        },
+        {
+          "% Change": 18.38219008504971,
+          "EUR-2018": 10038177,
+          "Name": "Total non-current assets",
+          "Notes": NaN,
+          "TL-2017": 51114225.0,
+          "TL-2018": 60510139,
+          "TL-Diff": 9395914.0,
+          "USD-2018": 11501861
+        },
+        {
+          "% Change": 20.383070024506374,
+          "EUR-2018": 20782327,
+          "Name": "Total assets",
+          "Notes": NaN,
+          "TL-2017": 104064368.0,
+          "TL-2018": 125275881,
+          "TL-Diff": 21211513.0,
+          "USD-2018": 23812634
+        },
+        {
+          "% Change": 136.0538923440413,
+          "EUR-2018": 1332399,
+          "Name": "Short term borrowings",
+          "Notes": 16.0,
+          "TL-2017": 3402487.0,
+          "TL-2018": 8031703,
+          "TL-Diff": 4629216.0,
+          "USD-2018": 1526679
+        },
+        {
+          "% Change": -22.575206249348362,
+          "EUR-2018": 1257785,
+          "Name": "Short term portion of long term borrowings",
+          "Notes": 16.0,
+          "TL-2017": 9792637.0,
+          "TL-2018": 7581929,
+          "TL-Diff": -2210708.0,
+          "USD-2018": 1441185
+        },
+        {
+          "% Change": 4.459322545162495,
+          "EUR-2018": 2587468,
+          "Name": "Trade payables",
+          "Notes": 8.0,
+          "TL-2017": 14931416.0,
+          "TL-2018": 15597256,
+          "TL-Diff": 665840.0,
+          "USD-2018": 2964751
+        },
+        {
+          "% Change": -23.05806479827232,
+          "EUR-2018": 198471,
+          "Name": "Related parties",
+          "Notes": 8.0,
+          "TL-2017": 1554918.0,
+          "TL-2018": 1196384,
+          "TL-Diff": -358534.0,
+          "USD-2018": 227411
+        },
+        {
+          "% Change": 7.658013330544362,
+          "EUR-2018": 2388997,
+          "Name": "Third parties",
+          "Notes": 8.0,
+          "TL-2017": 13376498.0,
+          "TL-2018": 14400872,
+          "TL-Diff": 1024374.0,
+          "USD-2018": 2737340
+        },
+        {
+          "% Change": 151.43365754237507,
+          "EUR-2018": 80838,
+          "Name": "Derivative instruments",
+          "Notes": 10.0,
+          "TL-2017": 193805.0,
+          "TL-2018": 487291,
+          "TL-Diff": 293486.0,
+          "USD-2018": 92625
+        },
+        {
+          "% Change": 164.57180071637902,
+          "EUR-2018": 32349,
+          "Name": "Current income tax liabilities",
+          "Notes": 17.0,
+          "TL-2017": 73704.0,
+          "TL-2018": 195000,
+          "TL-Diff": 121296.0,
+          "USD-2018": 37066
+        },
+        {
+          "% Change": 9.771948648445147,
+          "EUR-2018": 193481,
+          "Name": "Short term provisions",
+          "Notes": 19.0,
+          "TL-2017": 1062480.0,
+          "TL-2018": 1166305,
+          "TL-Diff": 103825.0,
+          "USD-2018": 221693
+        },
+        {
+          "% Change": 14.981505908542756,
+          "EUR-2018": 546326,
+          "Name": "Other payables",
+          "Notes": 20.0,
+          "TL-2017": 2864158.0,
+          "TL-2018": 3293252,
+          "TL-Diff": 429094.0,
+          "USD-2018": 625986
+        },
+        {
+          "% Change": 26.78134367227593,
+          "EUR-2018": 700599,
+          "Name": "Other current liabilities",
+          "Notes": 21.0,
+          "TL-2017": 3331095.0,
+          "TL-2018": 4223207,
+          "TL-Diff": 892112.0,
+          "USD-2018": 802754
+        },
+        {
+          "% Change": 13.811822926551049,
+          "EUR-2018": 6731245,
+          "Name": "",
+          "Notes": NaN,
+          "TL-2017": 35651782.0,
+          "TL-2018": 40575943,
+          "TL-Diff": 4924161.0,
+          "USD-2018": 7712739
+        },
+        {
+          "% Change": -12.50435388366423,
+          "EUR-2018": 417,
+          "Name": "Liabilities related to assets held for sale",
+          "Notes": 23.0,
+          "TL-2017": 2871.0,
+          "TL-2018": 2512,
+          "TL-Diff": -359.0,
+          "USD-2018": 477
+        },
+        {
+          "% Change": 13.809703883529592,
+          "EUR-2018": 6731662,
+          "Name": "Total current liabilities",
+          "Notes": NaN,
+          "TL-2017": 35654653.0,
+          "TL-2018": 40578455,
+          "TL-Diff": 4923802.0,
+          "USD-2018": 7713216
+        },
+        {
+          "% Change": 47.50461975666514,
+          "EUR-2018": 5673531,
+          "Name": "Long term borrowings",
+          "Notes": 16.0,
+          "TL-2017": 23185745.0,
+          "TL-2018": 34200045,
+          "TL-Diff": 11014300.0,
+          "USD-2018": 6500797
+        },
+        {
+          "% Change": 1369.9762187871581,
+          "EUR-2018": 8203,
+          "Name": "Derivative instruments",
+          "Notes": 10.0,
+          "TL-2017": 3364.0,
+          "TL-2018": 49450,
+          "TL-Diff": 46086.0,
+          "USD-2018": 9400
+        },
+        {
+          "% Change": NaN,
+          "EUR-2018": 103193,
+          "Name": "Other payables",
+          "Notes": 20.0,
+          "TL-2017": NaN,
+          "TL-2018": 622050,
+          "TL-Diff": NaN,
+          "USD-2018": 118240
+        },
+        {
+          "% Change": 22.778177446619278,
+          "EUR-2018": 149772,
+          "Name": "Deferred tax liabilities",
+          "Notes": 17.0,
+          "TL-2017": 735331.0,
+          "TL-2018": 902826,
+          "TL-Diff": 167495.0,
+          "USD-2018": 171611
+        },
+        {
+          "% Change": 4.285677039938969,
+          "EUR-2018": 152617,
+          "Name": "Long term provisions",
+          "Notes": NaN,
+          "TL-2017": 882171.0,
+          "TL-2018": 919978,
+          "TL-Diff": 37807.0,
+          "USD-2018": 174871
+        },
+        {
+          "% Change": 17.729987242618282,
+          "EUR-2018": 126760,
+          "Name": "Long term provisions for employee benefits",
+          "Notes": 18.0,
+          "TL-2017": 649036.0,
+          "TL-2018": 764110,
+          "TL-Diff": 115074.0,
+          "USD-2018": 145243
+        },
+        {
+          "% Change": -33.14259978124262,
+          "EUR-2018": 25857,
+          "Name": "Other long term provisions",
+          "Notes": 19.0,
+          "TL-2017": 233135.0,
+          "TL-2018": 155868,
+          "TL-Diff": -77267.0,
+          "USD-2018": 29628
+        },
+        {
+          "% Change": 55.43650663754342,
+          "EUR-2018": 173302,
+          "Name": "Other non-current liabilities",
+          "Notes": 21.0,
+          "TL-2017": 672086.0,
+          "TL-2018": 1044667,
+          "TL-Diff": 372581.0,
+          "USD-2018": 198572
+        },
+        {
+          "% Change": 48.119882268704714,
+          "EUR-2018": 6260618,
+          "Name": "Total non-current liabilities",
+          "Notes": NaN,
+          "TL-2017": 25478697.0,
+          "TL-2018": 37739016,
+          "TL-Diff": 12260319.0,
+          "USD-2018": 7173491
+        },
+        {
+          "% Change": 28.1092415187455,
+          "EUR-2018": 12992280,
+          "Name": "Total liabilities",
+          "Notes": NaN,
+          "TL-2017": 61133350.0,
+          "TL-2018": 78317471,
+          "TL-Diff": 17184121.0,
+          "USD-2018": 14886707
+        },
+        {
+          "% Change": 0.0,
+          "EUR-2018": 420686,
+          "Name": "Paid-in share capital",
+          "Notes": 22.0,
+          "TL-2017": 2535898.0,
+          "TL-2018": 2535898,
+          "TL-Diff": 0.0,
+          "USD-2018": 482027
+        },
+        {
+          "% Change": 0.0,
+          "EUR-2018": 160466,
+          "Name": "Adjustment to share capital",
+          "Notes": 22.0,
+          "TL-2017": 967288.0,
+          "TL-2018": 967288,
+          "TL-Diff": 0.0,
+          "USD-2018": 183864
+        },
+        {
+          "% Change": 0.0,
+          "EUR-2018": 1540,
+          "Name": "Share premium",
+          "Notes": NaN,
+          "TL-2017": 9286.0,
+          "TL-2018": 9286,
+          "TL-Diff": 0.0,
+          "USD-2018": 1765
+        },
+        {
+          "% Change": 37.503817073617604,
+          "EUR-2018": 37350,
+          "Name": "Other comprehensive income/expense not to be reclassified to profit or loss",
+          "Notes": 22.0,
+          "TL-2017": 163738.0,
+          "TL-2018": 225146,
+          "TL-Diff": 61408.0,
+          "USD-2018": 42796
+        },
+        {
+          "% Change": 184.0535938703531,
+          "EUR-2018": 46495,
+          "Name": "Other comprehensive income/expense to be reclassified to profit or loss",
+          "Notes": 22.0,
+          "TL-2017": 98668.0,
+          "TL-2018": 280270,
+          "TL-Diff": 181602.0,
+          "USD-2018": 53274
+        },
+        {
+          "% Change": -79.87368529455051,
+          "EUR-2018": 86889,
+          "Name": "Restricted reserves",
+          "Notes": 22.0,
+          "TL-2017": 2602389.0,
+          "TL-2018": 523765,
+          "TL-Diff": -2078624.0,
+          "USD-2018": 99558
+        },
+        {
+          "% Change": 26.052392781426974,
+          "EUR-2018": 4017321,
+          "Name": "Prior years\u2019 income",
+          "Notes": NaN,
+          "TL-2017": 19211387.0,
+          "TL-2018": 24216413,
+          "TL-Diff": 5005026.0,
+          "USD-2018": 4603093
+        },
+        {
+          "% Change": 12.799374177487502,
+          "EUR-2018": 918551,
+          "Name": "Profit for the period",
+          "Notes": NaN,
+          "TL-2017": 4908740.0,
+          "TL-2018": 5537028,
+          "TL-Diff": 628288.0,
+          "USD-2018": 1052487
+        },
+        {
+          "% Change": 11.049031411441296,
+          "EUR-2018": 5521608,
+          "Name": "Equity holders of the parent",
+          "Notes": NaN,
+          "TL-2017": 29972582.0,
+          "TL-2018": 33284262,
+          "TL-Diff": 3311680.0,
+          "USD-2018": 6326724
+        },
+        {
+          "% Change": 5.5231356623592545,
+          "EUR-2018": 2268439,
+          "Name": "Non-controlling interests",
+          "Notes": NaN,
+          "TL-2017": 12958436.0,
+          "TL-2018": 13674148,
+          "TL-Diff": 715712.0,
+          "USD-2018": 2599203
+        },
+        {
+          "% Change": 9.381077336670657,
+          "EUR-2018": 7790047,
+          "Name": "Total equity",
+          "Notes": NaN,
+          "TL-2017": 42931018.0,
+          "TL-2018": 46958410,
+          "TL-Diff": 4027392.0,
+          "USD-2018": 8925927
+        },
+        {
+          "% Change": 20.383070024506374,
+          "EUR-2018": 20782327,
+          "Name": "Total liabilities and equity",
+          "Notes": NaN,
+          "TL-2017": 104064368.0,
+          "TL-2018": 125275881,
+          "TL-Diff": 21211513.0,
+          "USD-2018": 23812634
+        }
+      ]
+    },
+    {
+      "cis": [
+        {
+          "% Change": 0.04957858205255329,
+          "EUR-2018": 2018,
+          "Name": "",
+          "Notes": NaN,
+          "TL-2017": 2017,
+          "TL-2018": 2018,
+          "TL-Diff": 1,
+          "USD-2018": 2018
+        },
+        {
+          "% Change": 44.973708959295166,
+          "EUR-2018": 25159335,
+          "Name": "Revenue",
+          "Notes": 24.0,
+          "TL-2017": 98272831,
+          "TL-2018": 142469768,
+          "TL-Diff": 44196937,
+          "USD-2018": 29598572
+        },
+        {
+          "% Change": 31.085436036624586,
+          "EUR-2018": 137486,
+          "Name": "Revenue from finance sector operations",
+          "Notes": NaN,
+          "TL-2017": 593918,
+          "TL-2018": 778540,
+          "TL-Diff": 184622,
+          "USD-2018": 161744
+        },
+        {
+          "% Change": 44.890278530347956,
+          "EUR-2018": 25296821,
+          "Name": "Total revenue",
+          "Notes": 4.0,
+          "TL-2017": 98866749,
+          "TL-2018": 143248308,
+          "TL-Diff": 44381559,
+          "USD-2018": 29760316
+        },
+        {
+          "% Change": 46.340200048782414,
+          "EUR-2018": 21235844,
+          "Name": "Cost of sales",
+          "Notes": 25.0,
+          "TL-2017": 82173057,
+          "TL-2018": 120252216,
+          "TL-Diff": 38079159,
+          "USD-2018": 24982801
+        },
+        {
+          "% Change": 33.8648193564039,
+          "EUR-2018": 98416,
+          "Name": "Cost of finance sector operations",
+          "Notes": NaN,
+          "TL-2017": 416317,
+          "TL-2018": 557302,
+          "TL-Diff": 140985,
+          "USD-2018": 115781
+        },
+        {
+          "% Change": 46.27731407674794,
+          "EUR-2018": 21334260,
+          "Name": "Total costs",
+          "Notes": NaN,
+          "TL-2017": 82589374,
+          "TL-2018": 120809518,
+          "TL-Diff": 38220144,
+          "USD-2018": 25098582
+        },
+        {
+          "% Change": 37.999154522293296,
+          "EUR-2018": 3923491,
+          "Name": "Gross profit non-finance",
+          "Notes": NaN,
+          "TL-2017": 16099774,
+          "TL-2018": 22217552,
+          "TL-Diff": 6117778,
+          "USD-2018": 4615771
+        },
+        {
+          "% Change": 24.570244536911392,
+          "EUR-2018": 39070,
+          "Name": "Gross profit finance",
+          "Notes": NaN,
+          "TL-2017": 177601,
+          "TL-2018": 221238,
+          "TL-Diff": 43637,
+          "USD-2018": 45963
+        },
+        {
+          "% Change": 37.8526328723151,
+          "EUR-2018": 3962561,
+          "Name": "Gross profit",
+          "Notes": NaN,
+          "TL-2017": 16277375,
+          "TL-2018": 22438790,
+          "TL-Diff": 6161415,
+          "USD-2018": 4661734
+        },
+        {
+          "% Change": 25.436071164166062,
+          "EUR-2018": 1184557,
+          "Name": "Marketing expenses",
+          "Notes": 25.0,
+          "TL-2017": 5347579,
+          "TL-2018": 6707793,
+          "TL-Diff": 1360214,
+          "USD-2018": 1393567
+        },
+        {
+          "% Change": 24.584500229766604,
+          "EUR-2018": 710489,
+          "Name": "General administrative expenses",
+          "Notes": 25.0,
+          "TL-2017": 3229364,
+          "TL-2018": 4023287,
+          "TL-Diff": 793923,
+          "USD-2018": 835851
+        },
+        {
+          "% Change": 20.01826515196777,
+          "EUR-2018": 49664,
+          "Name": "Research and development expenses",
+          "Notes": 25.0,
+          "TL-2017": 234326,
+          "TL-2018": 281234,
+          "TL-Diff": 46908,
+          "USD-2018": 58427
+        },
+        {
+          "% Change": 124.72037947943961,
+          "EUR-2018": 995477,
+          "Name": "Other operating income",
+          "Notes": 26.0,
+          "TL-2017": 2508489,
+          "TL-2018": 5637086,
+          "TL-Diff": 3128597,
+          "USD-2018": 1171124
+        },
+        {
+          "% Change": 224.90929364477225,
+          "EUR-2018": 1284885,
+          "Name": "Other operating expenses",
+          "Notes": 26.0,
+          "TL-2017": 2239369,
+          "TL-2018": 7275918,
+          "TL-Diff": 5036549,
+          "USD-2018": 1511596
+        },
+        {
+          "% Change": 17.997409530490405,
+          "EUR-2018": 560826,
+          "Name": "the equity method",
+          "Notes": 7.0,
+          "TL-2017": 2691404,
+          "TL-2018": 3175787,
+          "TL-Diff": 484383,
+          "USD-2018": 659780
+        },
+        {
+          "% Change": 24.330018423977833,
+          "EUR-2018": 2289269,
+          "Name": "Operating profit",
+          "Notes": 4.0,
+          "TL-2017": 10426630,
+          "TL-2018": 12963431,
+          "TL-Diff": 2536801,
+          "USD-2018": 2693197
+        },
+        {
+          "% Change": 137.47368278989418,
+          "EUR-2018": 62147,
+          "Name": "Gains from investment activities",
+          "Notes": 27.0,
+          "TL-2017": 148192,
+          "TL-2018": 351917,
+          "TL-Diff": 203725,
+          "USD-2018": 73112
+        },
+        {
+          "% Change": 203.09210215739037,
+          "EUR-2018": 34014,
+          "Name": "Losses from investment activities",
+          "Notes": 27.0,
+          "TL-2017": 63549,
+          "TL-2018": 192612,
+          "TL-Diff": 129063,
+          "USD-2018": 40016
+        },
+        {
+          "% Change": 24.844402766439423,
+          "EUR-2018": 2317402,
+          "Name": "Operating profit before financial income/(expense)",
+          "Notes": NaN,
+          "TL-2017": 10511273,
+          "TL-2018": 13122736,
+          "TL-Diff": 2611463,
+          "USD-2018": 2726293
+        },
+        {
+          "% Change": 99.58978591076466,
+          "EUR-2018": 2188432,
+          "Name": "Financial income",
+          "Notes": 28.0,
+          "TL-2017": 6208953,
+          "TL-2018": 12392436,
+          "TL-Diff": 6183483,
+          "USD-2018": 2574570
+        },
+        {
+          "% Change": 108.70911822747362,
+          "EUR-2018": 2971092,
+          "Name": "Financial expense",
+          "Notes": 28.0,
+          "TL-2017": 8061172,
+          "TL-2018": 16824401,
+          "TL-Diff": 8763229,
+          "USD-2018": 3495326
+        },
+        {
+          "% Change": 0.3662871255913175,
+          "EUR-2018": 1534742,
+          "Name": "Profit before tax",
+          "Notes": 4.0,
+          "TL-2017": 8659054,
+          "TL-2018": 8690771,
+          "TL-Diff": 31717,
+          "USD-2018": 1805537
+        },
+        {
+          "% Change": -65.11704548289386,
+          "EUR-2018": 46917,
+          "Name": "Tax income/(expense)",
+          "Notes": NaN,
+          "TL-2017": 761627,
+          "TL-2018": 265678,
+          "TL-Diff": -495949,
+          "USD-2018": 55196
+        },
+        {
+          "% Change": -10.409078865800986,
+          "EUR-2018": 124801,
+          "Name": "Current income tax expense",
+          "Notes": 17.0,
+          "TL-2017": 788821,
+          "TL-2018": 706712,
+          "TL-Diff": -82109,
+          "USD-2018": 146822
+        },
+        {
+          "% Change": 1521.8062807972346,
+          "EUR-2018": 77884,
+          "Name": "Deferred tax income",
+          "Notes": 17.0,
+          "TL-2017": 27194,
+          "TL-2018": 441034,
+          "TL-Diff": 413840,
+          "USD-2018": 91626
+        },
+        {
+          "% Change": 6.681492592460811,
+          "EUR-2018": 1487825,
+          "Name": "Profit for the period",
+          "Notes": NaN,
+          "TL-2017": 7897427,
+          "TL-2018": 8425093,
+          "TL-Diff": 527666,
+          "USD-2018": 1750341
+        },
+        {
+          "% Change": -3.366762728917414,
+          "EUR-2018": 510016,
+          "Name": "Non-controlling interests",
+          "Notes": 4.0,
+          "TL-2017": 2988687,
+          "TL-2018": 2888065,
+          "TL-Diff": -100622,
+          "USD-2018": 600005
+        },
+        {
+          "% Change": 12.799374177487502,
+          "EUR-2018": 977809,
+          "Name": "Equity holders of the parent",
+          "Notes": 4.0,
+          "TL-2017": 4908740,
+          "TL-2018": 5537028,
+          "TL-Diff": 628288,
+          "USD-2018": 1150336
+        }
+      ]
+    },
+    {
+      "ccf": [
+        {
+          "% Change": 6.681492592460811,
+          "EUR-2018": 1487825.0,
+          "Name": "Profit for the period",
+          "Notes": NaN,
+          "TL-2017": 7897427.0,
+          "TL-2018": 8425093.0,
+          "TL-Diff": 527666.0,
+          "USD-2018": 1750341.0
+        },
+        {
+          "% Change": -65.11704548289386,
+          "EUR-2018": 46917.0,
+          "Name": "Tax expenses",
+          "Notes": 17.0,
+          "TL-2017": 761627.0,
+          "TL-2018": 265678.0,
+          "TL-Diff": -495949.0,
+          "USD-2018": 55196.0
+        },
+        {
+          "% Change": 17.997409530490405,
+          "EUR-2018": 560826.0,
+          "Name": "Undistributed profits of investments accounted for using the equity method",
+          "Notes": 7.0,
+          "TL-2017": 2691404.0,
+          "TL-2018": 3175787.0,
+          "TL-Diff": 484383.0,
+          "USD-2018": 659780.0
+        },
+        {
+          "% Change": 33.796098740732766,
+          "EUR-2018": 373196.0,
+          "Name": "Depreciation and amortisation",
+          "Notes": 4.0,
+          "TL-2017": 1579490.0,
+          "TL-2018": 2113296.0,
+          "TL-Diff": 533806.0,
+          "USD-2018": 439044.0
+        },
+        {
+          "% Change": -63.585548213882916,
+          "EUR-2018": 11688.0,
+          "Name": "Adjustments for provisions",
+          "Notes": 36.0,
+          "TL-2017": 181763.0,
+          "TL-2018": 66188.0,
+          "TL-Diff": -115575.0,
+          "USD-2018": 13751.0
+        },
+        {
+          "% Change": 431.70626519250374,
+          "EUR-2018": 71849.0,
+          "Name": "Adjustments for impairment loss/(reversal of impairment loss)",
+          "Notes": 36.0,
+          "TL-2017": 76518.0,
+          "TL-2018": 406851.0,
+          "TL-Diff": 330333.0,
+          "USD-2018": 84524.0
+        },
+        {
+          "% Change": 158.0555626377651,
+          "EUR-2018": 393225.0,
+          "Name": "Interest (income)/expenses, net",
+          "Notes": 28.0,
+          "TL-2017": 862882.0,
+          "TL-2018": 2226715.0,
+          "TL-Diff": 1363833.0,
+          "USD-2018": 462607.0
+        },
+        {
+          "% Change": -96.92055702335155,
+          "EUR-2018": 867.0,
+          "Name": "Fair value losses/(gains) on derivative instruments",
+          "Notes": NaN,
+          "TL-2017": 159347.0,
+          "TL-2018": 4907.0,
+          "TL-Diff": -154440.0,
+          "USD-2018": 1019.0
+        },
+        {
+          "% Change": 135.68703086133803,
+          "EUR-2018": 379158.0,
+          "Name": "Unrealised foreign exchange losses/(gains)",
+          "Notes": NaN,
+          "TL-2017": 910978.0,
+          "TL-2018": 2147057.0,
+          "TL-Diff": 1236079.0,
+          "USD-2018": 446059.0
+        },
+        {
+          "% Change": 290.46903393591845,
+          "EUR-2018": 1344796.0,
+          "Name": "Exchange (gains)/losses on borrowings, net",
+          "Notes": NaN,
+          "TL-2017": 1950264.0,
+          "TL-2018": 7615177.0,
+          "TL-Diff": 5664913.0,
+          "USD-2018": 1582079.0
+        },
+        {
+          "% Change": 426.14198594034747,
+          "EUR-2018": 965638.0,
+          "Name": "Exchange (gains)/losses on cash and cash equivalents, net",
+          "Notes": NaN,
+          "TL-2017": 1039286.0,
+          "TL-2018": 5468120.0,
+          "TL-Diff": 4428834.0,
+          "USD-2018": 1136020.0
+        },
+        {
+          "% Change": 6910.108168593808,
+          "EUR-2018": 33189.0,
+          "Name": "Gain from bargain purchases",
+          "Notes": 27.0,
+          "TL-2017": 2681.0,
+          "TL-2018": 187941.0,
+          "TL-Diff": 185260.0,
+          "USD-2018": 39045.0
+        },
+        {
+          "% Change": 216.81488898050532,
+          "EUR-2018": 9499.0,
+          "Name": "Losses/(gains) on disposal of non-current assets",
+          "Notes": 27.0,
+          "TL-2017": 16979.0,
+          "TL-2018": 53792.0,
+          "TL-Diff": 36813.0,
+          "USD-2018": 11175.0
+        },
+        {
+          "% Change": NaN,
+          "EUR-2018": 4861.0,
+          "Name": "Gain on sale of interest in a subsidiary",
+          "Notes": 27.0,
+          "TL-2017": NaN,
+          "TL-2018": 27525.0,
+          "TL-Diff": NaN,
+          "USD-2018": 5718.0
+        },
+        {
+          "% Change": NaN,
+          "EUR-2018": 1446.0,
+          "Name": "Losses on disposal of financial assets",
+          "Notes": 27.0,
+          "TL-2017": NaN,
+          "TL-2018": 8191.0,
+          "TL-Diff": NaN,
+          "USD-2018": 1702.0
+        },
+        {
+          "% Change": NaN,
+          "EUR-2018": NaN,
+          "Name": "Losses/(gains) on exchange transactions",
+          "Notes": 27.0,
+          "TL-2017": 32099.0,
+          "TL-2018": NaN,
+          "TL-Diff": NaN,
+          "USD-2018": NaN
+        },
+        {
+          "% Change": 26.03780437208349,
+          "EUR-2018": 2156062.0,
+          "Name": "",
+          "Notes": NaN,
+          "TL-2017": 9686869.0,
+          "TL-2018": 12209117.0,
+          "TL-Diff": 2522248.0,
+          "USD-2018": 2536487.0
+        },
+        {
+          "% Change": 36.177895814791235,
+          "EUR-2018": 1047832.0,
+          "Name": "Changes in working capital",
+          "Notes": 36.0,
+          "TL-2017": 4357202.0,
+          "TL-2018": 5933546.0,
+          "TL-Diff": 1576344.0,
+          "USD-2018": 1232714.0
+        },
+        {
+          "% Change": -38.23878619579807,
+          "EUR-2018": 94341.0,
+          "Name": "Income taxes refund/(paid)",
+          "Notes": NaN,
+          "TL-2017": 864983.0,
+          "TL-2018": 534224.0,
+          "TL-Diff": -330759.0,
+          "USD-2018": 110987.0
+        },
+        {
+          "% Change": 81.1622129370321,
+          "EUR-2018": 192259.0,
+          "Name": "Dividend payments received from Joint Ventures, net",
+          "Notes": 7.0,
+          "TL-2017": 600957.0,
+          "TL-2018": 1088707.0,
+          "TL-Diff": 487750.0,
+          "USD-2018": 226183.0
+        },
+        {
+          "% Change": 34.83099177379526,
+          "EUR-2018": 1206148.0,
+          "Name": "Total cash flows from operating activities",
+          "Notes": NaN,
+          "TL-2017": 5065641.0,
+          "TL-2018": 6830054.0,
+          "TL-Diff": 1764413.0,
+          "USD-2018": 1418969.0
+        },
+        {
+          "% Change": 29.37586797636063,
+          "EUR-2018": 1036765.0,
+          "Name": "Cash outflows from purchases of property, plant and equipment and intangible assets",
+          "Notes": 4.0,
+          "TL-2017": 4537854.0,
+          "TL-2018": 5870888.0,
+          "TL-Diff": 1333034.0,
+          "USD-2018": 1219697.0
+        },
+        {
+          "% Change": 28.737966746189176,
+          "EUR-2018": 287220.0,
+          "Name": "Cash inflows from sale of property, plant and equipment and intangible assets",
+          "Notes": NaN,
+          "TL-2017": 1263374.0,
+          "TL-2018": 1626442.0,
+          "TL-Diff": 363068.0,
+          "USD-2018": 337899.0
+        },
+        {
+          "% Change": 2175.9622451185246,
+          "EUR-2018": 278914.0,
+          "Name": "Cash outflows from capital increases of Joint Ventures",
+          "Notes": 7.0,
+          "TL-2017": 69395.0,
+          "TL-2018": 1579404.0,
+          "TL-Diff": 1510009.0,
+          "USD-2018": 328126.0
+        },
+        {
+          "% Change": -28.579096695038725,
+          "EUR-2018": 1645.0,
+          "Name": "Cash outflows from acquisition of interest/capital increase in financial assets",
+          "Notes": NaN,
+          "TL-2017": 13041.0,
+          "TL-2018": 9314.0,
+          "TL-Diff": -3727.0,
+          "USD-2018": 1935.0
+        },
+        {
+          "% Change": 1116.72,
+          "EUR-2018": 2686.0,
+          "Name": "Cash inflows from sale of interest/capital decrease in financial assets",
+          "Notes": NaN,
+          "TL-2017": 1250.0,
+          "TL-2018": 15209.0,
+          "TL-Diff": 13959.0,
+          "USD-2018": 3160.0
+        },
+        {
+          "% Change": NaN,
+          "EUR-2018": 2430.0,
+          "Name": "Cash inflows from sale of interest in a subsidiary",
+          "Notes": NaN,
+          "TL-2017": NaN,
+          "TL-2018": 13762.0,
+          "TL-Diff": NaN,
+          "USD-2018": 2859.0
+        },
+        {
+          "% Change": 845.1151499245457,
+          "EUR-2018": 127188.0,
+          "Name": "Other cash inflows/(outflows)",
+          "Notes": NaN,
+          "TL-2017": 76205.0,
+          "TL-2018": 720225.0,
+          "TL-Diff": 644020.0,
+          "USD-2018": 149629.0
+        },
+        {
+          "% Change": 845.1151499245457,
+          "EUR-2018": 127188.0,
+          "Name": "Cash outflows due to business combinations, net 3,",
+          "Notes": 20.0,
+          "TL-2017": 76205.0,
+          "TL-2018": 720225.0,
+          "TL-Diff": 644020.0,
+          "USD-2018": 149629.0
+        },
+        {
+          "% Change": 90.11256541985406,
+          "EUR-2018": 1152176.0,
+          "Name": "Total cash flows from investing activities",
+          "Notes": NaN,
+          "TL-2017": 3431871.0,
+          "TL-2018": 6524418.0,
+          "TL-Diff": 3092547.0,
+          "USD-2018": 1355469.0
+        },
+        {
+          "% Change": 47.57493759278438,
+          "EUR-2018": 599143.0,
+          "Name": "Dividends paid",
+          "Notes": NaN,
+          "TL-2017": 2299013.0,
+          "TL-2018": 3392767.0,
+          "TL-Diff": 1093754.0,
+          "USD-2018": 704859.0
+        },
+        {
+          "% Change": -0.7528935956830519,
+          "EUR-2018": 9089186.0,
+          "Name": "Cash inflows from borrowings",
+          "Notes": 16.0,
+          "TL-2017": 51859785.0,
+          "TL-2018": 51469336.0,
+          "TL-Diff": -390449.0,
+          "USD-2018": 10692927.0
+        },
+        {
+          "% Change": 2.1427754164077704,
+          "EUR-2018": 8618714.0,
+          "Name": "Cash outflows from repayments of borrowings",
+          "Notes": 16.0,
+          "TL-2017": 47781349.0,
+          "TL-2018": 48805196.0,
+          "TL-Diff": 1023847.0,
+          "USD-2018": 10139444.0
+        },
+        {
+          "% Change": 81.75412319370926,
+          "EUR-2018": 18858.0,
+          "Name": "Cash inflows/(outflows) from derivative instruments, net",
+          "Notes": NaN,
+          "TL-2017": 58753.0,
+          "TL-2018": 106786.0,
+          "TL-Diff": 48033.0,
+          "USD-2018": 22185.0
+        },
+        {
+          "% Change": 61.441466927141406,
+          "EUR-2018": 566381.0,
+          "Name": "Interest paid",
+          "Notes": NaN,
+          "TL-2017": 1986629.0,
+          "TL-2018": 3207243.0,
+          "TL-Diff": 1220614.0,
+          "USD-2018": 666315.0
+        },
+        {
+          "% Change": 29.459914630644533,
+          "EUR-2018": 259551.0,
+          "Name": "Interest received",
+          "Notes": NaN,
+          "TL-2017": 1135302.0,
+          "TL-2018": 1469761.0,
+          "TL-Diff": 334459.0,
+          "USD-2018": 305348.0
+        },
+        {
+          "% Change": 5311.630602782071,
+          "EUR-2018": 24733.0,
+          "Name": "Other cash inflows/(outflows)",
+          "Notes": NaN,
+          "TL-2017": 2588.0,
+          "TL-2018": 140053.0,
+          "TL-Diff": 137465.0,
+          "USD-2018": 29097.0
+        },
+        {
+          "% Change": 2761.0510046367854,
+          "EUR-2018": 13076.0,
+          "Name": "Transactions with non-controlling interests",
+          "Notes": NaN,
+          "TL-2017": 2588.0,
+          "TL-2018": 74044.0,
+          "TL-Diff": 71456.0,
+          "USD-2018": 15383.0
+        },
+        {
+          "% Change": NaN,
+          "EUR-2018": 11657.0,
+          "Name": "Contribution of non-controlling interests to capital increases",
+          "Notes": NaN,
+          "TL-2017": NaN,
+          "TL-2018": 66009.0,
+          "TL-Diff": NaN,
+          "USD-2018": 13714.0
+        },
+        {
+          "% Change": 125.4757630343984,
+          "EUR-2018": 391910.0,
+          "Name": "Total cash flows from financing activities",
+          "Notes": NaN,
+          "TL-2017": 984261.0,
+          "TL-2018": 2219270.0,
+          "TL-Diff": 1235009.0,
+          "USD-2018": 461061.0
+        },
+        {
+          "% Change": 426.14198594034747,
+          "EUR-2018": 965638.0,
+          "Name": "Effect of exchange rate changes on cash and cash equivalents",
+          "Notes": NaN,
+          "TL-2017": 1039286.0,
+          "TL-2018": 5468120.0,
+          "TL-Diff": 4428834.0,
+          "USD-2018": 1136020.0
+        },
+        {
+          "% Change": -2.8116512733241334,
+          "EUR-2018": 627700.0,
+          "Name": "Net increase/(decrease) in cash and cash equivalents",
+          "Notes": NaN,
+          "TL-2017": 3657317.0,
+          "TL-2018": 3554486.0,
+          "TL-Diff": -102831.0,
+          "USD-2018": 738459.0
+        },
+        {
+          "% Change": 22.86550676843488,
+          "EUR-2018": 3470469.0,
+          "Name": "Cash and cash equivalents at the beginning of the period",
+          "Notes": NaN,
+          "TL-2017": 15994909.0,
+          "TL-2018": 19652226.0,
+          "TL-Diff": 3657317.0,
+          "USD-2018": 4082816.0
+        },
+        {
+          "% Change": 18.08693834479616,
+          "EUR-2018": 4098169.0,
+          "Name": "Cash and cash equivalents at the end of the period",
+          "Notes": 36.0,
+          "TL-2017": 19652226.0,
+          "TL-2018": 23206712.0,
+          "TL-Diff": 3554486.0,
+          "USD-2018": 4821275.0
+        }
+      ]
+    }
+  ]
+}
