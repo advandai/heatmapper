@@ -5,6 +5,12 @@
         <BTable :items="table.items" :fields="fields" small class="text-left">
           <template slot="% Change" slot-scope="data">
             <div v-bind:style="cellColor(data)">
+              <font-awesome-icon v-if="data.value < 0" icon="long-arrow-alt-down"/>
+              {{ Math.round(data.value * 10) / 10 }}
+            </div>
+          </template>
+          <template slot="TL-Diff" slot-scope="data">
+            <div v-bind:style="cellColor(data)">
               {{ data.value }}
             </div>
           </template>
@@ -25,13 +31,13 @@ export default {
     dataTables: [],
     fields: [
       {key: 'Name', sortable: true},
+      {key: '% Change', sortable: true},
+      {key: 'TL-Diff', sortable: true},
       {key: 'Notes', sortable: true},
       {key: 'EUR-2018', sortable: true},
       {key: 'USD-2018', sortable: true},
       {key: 'TL-2017', sortable: true},
-      {key: 'TL-2018', sortable: true},
-      {key: 'TL-Diff', sortable: true},
-      {key: '% Change', sortable: true}
+      {key: 'TL-2018', sortable: true}
     ]
   }),
   async mounted () {
@@ -41,19 +47,17 @@ export default {
   methods: {
     cellColor (data) {
       if (data.item == null) return
-      const change = data.item['% Change'] / 100
-      let rgb = ''
-      if (change > 0) {
-        let greenRgb = change * 255 / 2 + 120
-        if (greenRgb > 255) greenRgb = 255
-        rgb = 'rgb(0, ' + greenRgb + ', 0)'
-      } else if (change < 0) {
-        let redRgb = -change * 255 / 3 + 160
-        if (redRgb > 255) redRgb = 255
-        rgb = 'rgb(' + redRgb + ', 0, 0)'
+      const change = Math.abs(data.item['% Change'])
+      let color = ''
+      if (change <= 5) {
+        color = '#8BC34A'
+      } else if (change <= 15) {
+        color = '#FF9800'
+      } else {
+        color = '#F44336'
       }
       return {
-        'background-color': rgb
+        'background-color': color
       }
     }
   },
