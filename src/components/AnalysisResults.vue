@@ -4,7 +4,7 @@
       <BTab :title="table.name" v-for="table in dataTables.tables" v-bind:key="table.name" class="py-3">
         <BTable :items="table.items" :fields="fields" small class="text-right">
           <template slot="% Change" slot-scope="data">
-            <div v-bind:style="cellColor(data)" class="px-1 w-100">
+            <div v-bind:style="cellColor(data)" class="px-1">
               <font-awesome-icon v-if="data.value < 0" icon="long-arrow-alt-down" class="float-left mt-1"/>
               {{ Math.round(data.value * 10) / 10 }}
             </div>
