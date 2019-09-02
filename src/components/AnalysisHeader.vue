@@ -15,9 +15,27 @@
           ></BFormFile>
         </BRow>
         <BRow class="mt-4">
-          <BButton variant="primary" class="w-100" :disabled=!Boolean(file) v-on:click="analyse()">
-            Analyse!
-          </BButton>
+          <BCol cols="6">
+            <BButton variant="primary" class="w-100" :disabled=!Boolean(file) v-on:click="analyse()">
+              Show analysis
+            </BButton>
+          </BCol>
+          <BCol cols="6">
+            <b-dropdown id="dropdown-1" class="w-100" text="Export results" :disabled=!Boolean(file)>
+              <b-dropdown-item>
+                <font-awesome-icon icon="envelope"/>
+                via email
+              </b-dropdown-item>
+              <b-dropdown-item>
+                <font-awesome-icon icon="link"/>
+                via link
+              </b-dropdown-item>
+              <b-dropdown-item>
+                <font-awesome-icon icon="download"/>
+                download excel
+              </b-dropdown-item>
+            </b-dropdown>
+          </BCol>
         </BRow>
       </BCardBody>
     </BCard>

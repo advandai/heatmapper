@@ -3,6 +3,11 @@
     <BTabs>
       <BTab :title="table.name" v-for="table in dataTables.tables" v-bind:key="table.name" class="py-3">
         <BTable :items="table.items" :fields="fields" small class="text-right">
+          <template slot="Name" slot-scope="data">
+            <div class="text-left">
+              {{ data.value }}
+            </div>
+          </template>
           <template slot="% Change" slot-scope="data">
             <div v-bind:style="cellColor(data)" class="px-1">
               <font-awesome-icon v-if="data.value < 0" icon="long-arrow-alt-down" class="float-left mt-1"/>
@@ -11,12 +16,27 @@
           </template>
           <template slot="TL-Diff" slot-scope="data">
             <div v-bind:style="cellColor(data)" class="px-1">
-              {{ data.value }}
+              {{ formatNumber(data.value) }}
             </div>
           </template>
-          <template slot="Name" slot-scope="data">
-            <div class="text-left">
-              {{ data.value }}
+          <template slot="EUR-2018" slot-scope="data">
+            <div>
+              {{ formatNumber(data.value) }}
+            </div>
+          </template>
+          <template slot="USD-2018" slot-scope="data">
+            <div>
+              {{ formatNumber(data.value) }}
+            </div>
+          </template>
+          <template slot="TL-2018" slot-scope="data">
+            <div>
+              {{ formatNumber(data.value) }}
+            </div>
+          </template>
+          <template slot="TL-2017" slot-scope="data">
+            <div>
+              {{ formatNumber(data.value) }}
             </div>
           </template>
         </BTable>
@@ -64,6 +84,9 @@ export default {
       return {
         'background-color': color
       }
+    },
+    formatNumber (number) {
+      return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',')
     }
   },
   computed: {

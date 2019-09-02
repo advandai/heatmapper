@@ -6,13 +6,17 @@ import router from './router'
 
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-import { faLongArrowAltDown } from '@fortawesome/free-solid-svg-icons'
+import { faLongArrowAltDown, faShare, faEnvelope, faLink, faDownload } from '@fortawesome/free-solid-svg-icons'
 
 import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 library.add(faLongArrowAltDown)
+library.add(faShare)
+library.add(faEnvelope)
+library.add(faLink)
+library.add(faDownload)
 
 Vue.component('font-awesome-icon', FontAwesomeIcon)
 
